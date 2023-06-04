@@ -119,7 +119,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='/'
+              href='https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:a1ed61ee-8968-3eca-a7c9-7c2b2536f40e'
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
