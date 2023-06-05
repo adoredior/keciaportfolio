@@ -12,7 +12,7 @@ const Home = () => {
         </h1>
         <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>I'm a Full Stack Developer.</h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
-        As an entry-level software developer, I possess strong skills in full-stack development and a specialization in crafting outstanding digital experiences. Alongside my development expertise, I also have a keen eye for design. My current emphasis is on building responsive full-stack web applications. I am committed to delivering top-notch solutions that cater to client requirements and provide exceptional user experiences. Let's collaborate to transform your ideas into impactful digital solutions
+          As an entry-level software developer, I excel in full-stack development and have a particular focus on creating exceptional digital experiences. In addition to my technical skills, I have a strong sense of design aesthetics. My primary goal is to build responsive full-stack web applications that meet client needs and deliver outstanding user experiences. I am dedicated to delivering high-quality solutions that make a lasting impact. Located in Atlanta, Georgia, I am open to remote or hybrid opportunities. Let's collaborate and bring your ideas to life with innovative digital solutions..
         </p>
         <div>
           <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-cyan-600 hover:border-cyan-600'>
