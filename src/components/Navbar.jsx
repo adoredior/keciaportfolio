@@ -77,7 +77,7 @@ const Navbar = () => {
         </li>
         <li className='py-6 text-4xl'>
           {' '}
-          <Link onClick={handleClick} to='work' smooth={true} duration={500}>
+          <Link onClick={handleClick} to='projects' smooth={true} duration={500}>
             Projects
           </Link>
         </li>
@@ -119,7 +119,7 @@ const Navbar = () => {
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
             <a
               className='flex justify-between items-center w-full text-gray-300'
-              href='https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:a1ed61ee-8968-3eca-a7c9-7c2b2536f40e'
+              href='https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:0c001753-ab18-39e4-8a6d-c375c0414af1'
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
